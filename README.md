@@ -23,7 +23,7 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [Full Stack Cloud Development with AWS Amplify](https://www.codemag.com/article/2101061)
 - [TensorFlow.js + AWS Amplify](https://shift.infinite.red/tensorflow-js-aws-amplify-e08a14fd995)
 - [10 Minute Tutorial: Creating a Serverless Express Web Server & API](https://dev.to/dabit3/10-minute-tutorial-creating-a-serverless-express-web-server-api-29j7)
-- [⚡️ 10 Ways to Use Serverless Functions](https://dev.to/dabit3/10-ways-to-use-serverless-functions-bme)
+- [10 Ways to Use Serverless Functions](https://dev.to/dabit3/10-ways-to-use-serverless-functions-bme)
 - [Real quick GraphQL service with AWS Amplify & Appsync](https://www.youtube.com/watch?v=cPUR2zYNA8A)
 - [Visualizing Focus with Neurosity's Notion and AWS Amplify](https://dev.to/kkemple/visualizing-focus-with-neurosity-s-notion-and-aws-amplify-57gg)
 - [Build a Music Sharing App with Amazon S3 and AWS Amplify](https://welearncode.com/get-started-s3/)
@@ -109,7 +109,7 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [React Native Authentication in Depth](https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b)
 - [User Authorization with React Native & AWS using React Native Navigation](https://medium.com/@dabit3/user-authorization-with-react-native-aws-using-react-native-navigation-v2-by-wix-220ecb536b56)
 - [Building an iOS app with React Native and AWS Amplify](https://www.ie.com.au/blog/aws-amplify)
-- [AWS Amplify + React Native / Authentication 🔐 FULL SETUP](https://medium.com/@raoffonom/aws-amplify-react-native-authentication-full-setup-7764b452a138)
+- [AWS Amplify + React Native / Authentication FULL SETUP](https://medium.com/@raoffonom/aws-amplify-react-native-authentication-full-setup-7764b452a138)
 - [Detox your React Native AWS Amplify Authentication.](https://medium.com/@ferwee/detox-your-react-native-aws-amplify-authentication-bb886fbfae8b)
 
 #### React blogs & tutorials
@@ -221,7 +221,7 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [Securing AWS Api Gateway Requests with Signature Version 4 using AWS Amplify](https://medium.com/@jun711.g/how-to-secure-aws-api-gateway-requests-with-signature-version-4-using-aws-amplify-62d79f92966c)
 - [Using AWS Amplify from Clojurescript and Re-Frame Series](https://dev.to/rberger/aws-amplify-and-clojurescript-re-frame-part-1-3d3f)
 - [GraphQL and Go with AppSync and Lambda](https://medium.com/@bengiddins/graphql-and-go-with-appsync-and-lambda-84bac32582cd)
-- [CLJS ❤️'s AWS Amplify](https://dev.to/royalaid/cljs-s-aws-amplify-4f25)
+- [CLJS 's AWS Amplify](https://dev.to/royalaid/cljs-s-aws-amplify-4f25)
 - [Add monitoring to your Amplify app by using Amplify framework](https://medium.com/swlh/add-monitoring-to-your-amplify-app-by-using-amplify-framework-d4c43b2bb84b)
 - [Multi-Tenant AWS Amplify: Method 1: Cognito Custom Attributes](https://medium.com/@dantasfiles/multi-tenant-aws-amplify-method-1-cognito-custom-attributes-6719d27d84cc)
 - [Multi-Tenant AWS Amplify: Method 2: Cognito Groups](https://medium.com/@dantasfiles/multi-tenant-aws-amplify-method-2-cognito-groups-38b40ace2e9e)
